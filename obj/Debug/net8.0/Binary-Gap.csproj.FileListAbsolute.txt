@@ -1,0 +1,14 @@
+C:\Users\13608\Documents\GitHub\Binary-Gap\bin\Debug\net8.0\Binary-Gap.exe
+C:\Users\13608\Documents\GitHub\Binary-Gap\bin\Debug\net8.0\Binary-Gap.deps.json
+C:\Users\13608\Documents\GitHub\Binary-Gap\bin\Debug\net8.0\Binary-Gap.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\Binary-Gap\bin\Debug\net8.0\Binary-Gap.dll
+C:\Users\13608\Documents\GitHub\Binary-Gap\bin\Debug\net8.0\Binary-Gap.pdb
+C:\Users\13608\Documents\GitHub\Binary-Gap\obj\Debug\net8.0\Binary-Gap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\Binary-Gap\obj\Debug\net8.0\Binary-Gap.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\Binary-Gap\obj\Debug\net8.0\Binary-Gap.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\Binary-Gap\obj\Debug\net8.0\Binary-Gap.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\Binary-Gap\obj\Debug\net8.0\Binary-Gap.dll
+C:\Users\13608\Documents\GitHub\Binary-Gap\obj\Debug\net8.0\refint\Binary-Gap.dll
+C:\Users\13608\Documents\GitHub\Binary-Gap\obj\Debug\net8.0\Binary-Gap.pdb
+C:\Users\13608\Documents\GitHub\Binary-Gap\obj\Debug\net8.0\Binary-Gap.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\Binary-Gap\obj\Debug\net8.0\ref\Binary-Gap.dll
